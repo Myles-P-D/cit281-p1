@@ -6,10 +6,14 @@ I created some directories and pinged throug the command line and then wrote a p
 
 **[p1 Repo](https://github.com/Myles-P-D/cit281-p1)**
 ## Code:
-below is an excerpt of what I wrote for the project. 
-Here are links to the full code for the project:
-**[Date](https://github.com/Myles-P-D/cit281-p1/blob/main/p1-date.js)**
-**[Random](https://github.com/Myles-P-D/cit281-p1/blob/main/p1-random.js)**
+   
+ 
+   
+Here are links to the full code for the project:     
+**[Date](https://github.com/Myles-P-D/cit281-p1/blob/main/p1-date.js)**      
+**[Random](https://github.com/Myles-P-D/cit281-p1/blob/main/p1-random.js)**     
+    
+Below is an excerpt of what I wrote for the project.    
 ```javascript
 function randomString()
 {
